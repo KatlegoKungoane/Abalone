@@ -1,6 +1,6 @@
 import numpy as np
 import helper as h
-from env.abaloneEnv import Abalone
+from gymenv.abaloneEnv import Abalone
 
 # its column row, you fool
 
